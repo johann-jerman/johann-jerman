@@ -6,6 +6,8 @@ Soy un desarrollador que está buscando su primera experiencia laboral y aprendi
 [![Linkedin Badge](https://img.shields.io/badge/-JohannJerman-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannjerman/)
 [![Github Badge](<https://img.shields.io/badge/-JohannJerman-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white>)](https://github.com/johann-jerman)
 [![Mail Badge](https://img.shields.io/badge/-JohannJerman-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:johannjerman014@gmail.com)
+
+## Skills
 <!--
 **johann-jerman/johann-jerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
