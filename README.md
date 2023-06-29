@@ -7,7 +7,7 @@ Soy un desarrollador que está buscando su primera experiencia laboral y aprendi
 [![Github Badge](<https://img.shields.io/badge/-JohannJerman-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white>)](https://github.com/johann-jerman)
 [![Mail Badge](https://img.shields.io/badge/-JohannJerman-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:johannjerman014@gmail.com)
 
-## Skills
+**Languages, Frameworks and Tools:** &nbsp;
 <!--
 **johann-jerman/johann-jerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
