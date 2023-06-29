@@ -15,6 +15,7 @@ Soy un desarrollador que está buscando su primera experiencia laboral y aprendi
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
 ![Java](https://img.shields.io/badge/-JAVA-FF8000?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 *FrontEnd:* &nbsp;
 
