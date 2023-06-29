@@ -2,6 +2,7 @@
 
 Soy un desarrollador que está buscando su primera experiencia laboral y aprendiendo nuevas tecnologías cada día, el día 30/05/2023 terminé el curso de Desarrollador Full Stack de Digital House.
 
+## Datos de contacto
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannjerman/)
 [![Github Badge](<https://img.shields.io/badge/-rockop11-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white>)](https://github.com/johann-jerman)
 [![Mail Badge](https://img.shields.io/badge/-poncerodrigom-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:johannjerman014@gmail.com)
