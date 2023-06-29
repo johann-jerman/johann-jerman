@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Soy un desarrollador que está buscando su primera experiencia laboral y aprendiendo nuevas tecnologías cada día, el día 30/05/2023 terminé el curso de Desarrollador Full Stack de Digital House.
 <!--
 **johann-jerman/johann-jerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
