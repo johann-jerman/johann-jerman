@@ -27,6 +27,8 @@ Soy un desarrollador que está buscando su primera experiencia laboral y aprendi
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+![Snake animation](https://github.com/luisadriannu/snake/blob/main/snake.svg)
+
 <!--
 **johann-jerman/johann-jerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
