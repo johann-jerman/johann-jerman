@@ -15,8 +15,13 @@ Soy un desarrollador que está buscando su primera experiencia laboral y aprendi
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
-![Java](https://img.shields.io/badge/-JAVA-FF8000?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-964d92?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<!--![Java](https://img.shields.io/badge/-JAVA-FF8000?style=for-the-badge&logo=java&logoColor=white) 
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) -->
+
+
 
 *FrontEnd:* &nbsp;
 
