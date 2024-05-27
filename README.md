@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Actualmente comenzando el ingreso a la Tecnicatura en Programación de la Universidad Tecnológica Nacional regional Pacheco(UTN) como objetivo a largo plazo.
+Actualmente comenzando el ingreso a la Tecnicatura en Programación de la Universidad Tecnológica Nacional regional Pacheco(UTN) como objetivo a largo plazo. </br>
 Mientras que como objetivo a corto plazo es mejorar mi conocimientos en el área de BackEnd y Cloud para conseguir mi primer empleo en relación de dependencia para mejorar mis habilidades de comunicación y trabajo en equipo.
 
 ## Datos de contacto
