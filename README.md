@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Soy un desarrollador que está buscando su primera experiencia laboral y aprendiendo nuevas tecnologías cada día, el día 30/05/2023 terminé el curso de Desarrollador Full Stack de Digital House.
+Actualmente comenzando el ingreso a la Tecnicatura en Programación de la Universidad Tecnológica Nacional regional Pacheco(UTN) como objetivo a largo plazo.
+Mientras que como objetivo a corto plazo es mejorar mi conocimientos en el área de BackEnd y Cloud para conseguir mi primer empleo en relación de dependencia para mejorar mis habilidades de comunicación y trabajo en equipo.
 
 ## Datos de contacto
 [![Linkedin Badge](https://img.shields.io/badge/-JohannJerman-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannjerman/)
