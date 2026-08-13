@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hola 👋
 
-Actualmente comenzando el ingreso a la Tecnicatura en Programación de la Universidad Tecnológica Nacional regional Pacheco(UTN) como objetivo a largo plazo. </br>
-Mientras que como objetivo a corto plazo es mejorar mi conocimientos en el área de BackEnd y Cloud para conseguir mi primer empleo en relación de dependencia para mejorar mis habilidades de comunicación y trabajo en equipo.
+Desarrollador **Backend** con 2+ años de experiencia en **.NET (C#, .NET Core)** y **Node.js (TypeScript)**. </br>
+Trabajo construyendo APIs REST e integraciones sobre aplicaciones en producción, usadas tanto por equipos internos como por usuarios finales, con bases de datos SQL Server y MySQL.
+
+Estudiando la **Tecnicatura en Programación** en la UTN Regional Pacheco. Me interesan la arquitectura de software, la performance y las buenas prácticas: acá vas a encontrar implementaciones de **Onion Architecture** y **Arquitectura Hexagonal**, además de APIs y proyectos de práctica.
+
+📍 Moreno, Provincia de Buenos Aires, Argentina
 
 ## Datos de contacto
 [![Linkedin Badge](https://img.shields.io/badge/-JohannJerman-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannjerman/)
@@ -13,16 +17,23 @@ Mientras que como objetivo a corto plazo es mejorar mi conocimientos en el área
 
 *BackEnd:* &nbsp;
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
-![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
-![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
 ![C#](https://img.shields.io/badge/-C%23-964d92?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
+![Java](https://img.shields.io/badge/-JAVA-FF8000?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<!--![Java](https://img.shields.io/badge/-JAVA-FF8000?style=for-the-badge&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) -->
+*Bases de datos:* &nbsp;
 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MYSQL-00618b?style=for-the-badge&logo=mysql&logoColor=fafafa)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+*Herramientas:* &nbsp;
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 *FrontEnd:* &nbsp;
 
@@ -32,20 +43,3 @@ Mientras que como objetivo a corto plazo es mejorar mi conocimientos en el área
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=333)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-![Snake animation](https://github.com/luisadriannu/snake/blob/main/snake.svg)
-
-<!--
-**johann-jerman/johann-jerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
